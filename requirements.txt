@@ -1,0 +1,3 @@
+matplotlib
+mac-vendor-lookup
+sudo apt install arp-scan
